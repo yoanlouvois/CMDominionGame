@@ -2,6 +2,10 @@
 
 **CMDominion** is a lightweight, terminal-based adaptation of the famous deck-building card game *Dominion*. This project brings the full strategic experience of the board game to your command line, allowing for fast-paced sessions without the need for a graphical interface.
 
+<p align="center">
+    <img width="461" height="452" alt="image" src="https://github.com/user-attachments/assets/4a9787c9-911c-4721-b3c8-4b468507b7d0" />
+</p>
+
 ---
 
 ## Features
