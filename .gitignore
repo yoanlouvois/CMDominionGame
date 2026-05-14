@@ -1,0 +1,28 @@
+# Build folders
+build/
+bin/
+out/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+cmake-build-debug/
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.sln.docstates
+
+# Qt
+*.pro.user
+
+# Executables / objects
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+
+# Logs
+*.log

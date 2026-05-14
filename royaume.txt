@@ -1,0 +1,309 @@
+Bandit
+5
+true
+false
+0
+0
+0
+0
+Gagnez une carte Or. Chaque autre joueur revele les deux premieres cartes de son deck, trashe une carte Tresor non-Cuivre revelee, et defausse les autres.
+
+Bureaucrate
+4
+true
+false
+0
+0
+0
+0
+Gagnez une carte Argent sur votre deck. Chaque autre joueur revele une carte Victoire de sa main et la place sur son deck (ou revele une main sans carte Victoire).
+
+Cave
+2
+false
+false
+0
+1
+0
+0
+Defaussez autant de cartes que vous voulez, puis piochez le même nombre de cartes.
+
+Chapelle
+2
+false
+false
+0
+0
+0
+0
+Trashing jusqu'a 4 cartes de votre main.
+
+Manufacture
+4
+false
+false
+3
+0
+0
+0
++3 cartes.
+
+Jardinier
+4
+false
+true
+0
+1
+0
+0
++1 action, chaque joueur gagne 1 pioche.
+
+Laboratoire
+5
+false
+false
+2
+1
+0
+0
++2 cartes, +1 action.
+
+Marche
+5
+false
+false
+1
+1
+1
+1
++1 carte, +1 action, +1 achat, +1 piece.
+
+Mine
+5
+false
+false
+0
+0
+0
+0
+Trashing une carte Tresor de votre main, gagnez une carte Tresor coutant jusqu'à 3 pieces de plus que celle defaussee.
+
+Milice
+4
+true
+false
+0
+0
+2
+0
++2 pieces. Chaque autre joueur défausse jusqu'a avoir 3 cartes en main.
+
+Douves
+2
+false
+true
+2
+0
+0
+0
++2 cartes. En Reaction, si un autre joueur joue une carte Attaque, vous pouvez reveler cette carte pour vous proteger de l'attaque.
+
+Preteur
+4
+false
+false
+0
+0
+0
+0
+Trasher une carte d'argent de votre main pour 3 pieces supplementaire.
+
+Sorciere
+5
+true
+false
+2
+0
+0
+0
++2 cartes. Chaque autre joueur gagne une carte Malediction.
+
+Trone_de_Fer
+4
+false
+false
+0
+0
+0
+0
+Vous jouez deux fois une carte Action de votre main.
+
+Village
+3
+false
+false
+1
+2
+0
+0
++1 carte, +2 actions.
+
+Atelier
+3
+false
+false
+0
+0
+0
+0
+Gagnez une carte coutant jusqu'a 4 pieces.
+
+Gardien
+2
+false
+false
+0
+0
+0
+1
++1 achat, chaque joueur defausse une carte.
+
+Jardins
+4
+false
+false
+0
+0
+0
+0
+gagnez 1 point de victoire pour chaque 10 cartes dans votre deck (arrondi a l'unite inferieure).
+
+Sentinelle
+5
+false
+false
+1
+1
+0
+0
++1 carte, +1 action, regarder les 2 premieres cartes de votre deck, trasher ou defausser n'omporte quel nombre des ces 2 cartes.
+
+Bibliotheque
+5
+false
+false
+0
+0
+0
+0
+Piochez jusqu'a que vous aillez 7 cartes, ignorer chaque carte action qu'il vous plait, puis defaussez les ensuite.
+
+Festival
+5
+false
+false
+0
+2
+2
+1
++1 achat, +2 actions, +2 pieces.
+
+Salle_duConseil
+5
+false
+false
+4
+0
+0
+1
++4 cartes, +1 achat, chaque joueur pioche une carte.
+
+Remodelage
+4
+false
+false
+0
+0
+0
+0
+Trashing une carte de votre main, gagnez une carte coutant jusqu'a 2 pieces de plus que celle trachee.
+
+Braconnier
+4
+false
+false
+1
+1
+1
+0
++1 carte, +1 action, +1 piece, defausse une carte par pile de reserve vide.
+
+Vassal
+3
+false
+false
+0
+0
+2
+0
++2 pieces, defausse la premiere carte de votre deck, si c'est une carte action, vous pouvez la jouer.
+
+Marchand
+3
+false
+false
+1
+1
+0
+0
++1 carte, +1 action, la premiere fois que vous jouez un argent ce tour-ci, +1 piece.
+
+Messager
+3
+false
+false
+1
+1
+0
+0
++1 carte, +1 action, regarde ta pile de defausse, tu peux mettre une carte dans ton deck.
+
+Bucheron
+3
+false
+false
+0
+0
+2
+1
++1 achat, +2 pieces.
+
+Chancelier
+3
+false
+false
+0
+0
+2
+0
++2 pieces, vous pouvez defausser tout votre deck.
+
+Festin
+4
+false
+false
+0
+0
+0
+0
+Eliminez cette carte. Prenez une carte qui coute jusqu'à 5.
+
+Voleur
+4
+true
+false
+0
+0
+0
+0
+Chaque joueur devoile les 2 premiere cartes de son deck, eliminer ou voler une des cartes devoile et defausser les autres.f
