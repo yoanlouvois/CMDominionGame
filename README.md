@@ -20,11 +20,60 @@
 ## Getting Started
 
 ### Prerequisites
-To compile and run this game, you need a C++ compiler supporting at least C++11 (such as `g++`, `clang`, or `MSVC`).
 
-### Installation & Compilation
+To compile and run this project, you need:
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/yourusername/CMDominion.git](https://github.com/yourusername/CMDominion.git)
-   cd CMDominion
+- A C++ compiler supporting C++20
+- GNU Make
+- On Windows: MSYS2 with MinGW/UCRT64 installed
+
+### Windows Setup (MSYS2)
+
+1. Install MSYS2:
+https://www.msys2.org/
+
+2. Open the **MSYS2 UCRT64** terminal
+
+3. Update packages:
+```
+pacman -Syu
+```
+(If prompted, close and reopen the terminal, then run the command again.)
+
+4. Install GCC and Make:
+```
+pacman -S mingw-w64-ucrt-x86_64-gcc mingw-w64-ucrt-x86_64-make
+```
+5. (Optional) Add the following path to your Windows environment variables if you want to run commands directly from cmd:
+```
+C:\msys64\ucrt64\bin
+```
+### Clone the repository
+```
+git clone https://github.com/yoanlouvois/CMDominionGame.git
+cd CMDominionGame
+```
+### Compile
+```
+make
+```
+If `make` does not work on Windows cmd:
+```
+mingw32-make
+```
+### Run the game
+```
+./Dominion
+```
+On Windows cmd:
+```
+Dominion.exe
+```
+### Clean build files
+```
+make clean
+```
+or on Windows:
+```
+mingw32-make clean
+```
